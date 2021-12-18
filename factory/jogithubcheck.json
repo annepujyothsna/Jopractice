@@ -1,0 +1,9 @@
+{
+	"name": "jogithubcheck",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bd4e6a02-eff5-4756-886e-647986171d53",
+		"tenantId": "5353d365-31de-40f5-adfe-63dc25a0fb09"
+	}
+}
